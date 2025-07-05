@@ -3,11 +3,18 @@
         background-color: #AC91CD;
     } 
 .fristhead{
-    text-align: center;
+    text-align: left;
     background: #1B3C53;
-    height: 60px;
-    width: 100%;
+    /* height: 60px;
+    width: 100%; */
     color: aquamarine;
+    padding: 10px;
+}
+.secondhead{
+    background-color: #FFFCFB;
+    padding: 8px;
+    text-align: center;
+    margin-top: 0;
 }
 .main_div{
     display: flex;
@@ -20,8 +27,17 @@
     padding: 5px;
     border: 7px solid #2A1458;
     box-shadow: 10px 10px 10px #3D2A5D;
+    border-radius: 10px;
 }
 .main_div{
     background-color: #572866;
-    margin-top: 10PX;
+    /* margin-top: 10PX; */
+}
+.anrbtn1,.anrbtn2,.anrbtn3,.anrbtn4,.anrbtn5{
+    background-color: #9DB2BF;
+    color: white;
+    padding: 5px;
+    text-decoration: none;
+    border: 4px solid #71C9CE;
+    border-radius: 15px;
 }
