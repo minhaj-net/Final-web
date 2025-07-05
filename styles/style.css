@@ -1,0 +1,27 @@
+ *{
+        margin: 0;
+        background-color: #AC91CD;
+    } 
+.fristhead{
+    text-align: center;
+    background: #1B3C53;
+    height: 60px;
+    width: 100%;
+    color: aquamarine;
+}
+.main_div{
+    display: flex;
+}
+.div1 , .div2, .div3 , .div4 , .div5{
+    /* background-color: #456882; */
+    width: 215px;
+    height: 300px;
+    margin: 8px;
+    padding: 5px;
+    border: 7px solid #2A1458;
+    box-shadow: 10px 10px 10px #3D2A5D;
+}
+.main_div{
+    background-color: #572866;
+    margin-top: 10PX;
+}
